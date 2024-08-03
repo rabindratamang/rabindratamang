@@ -4,4 +4,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabindratamang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Certifications
 ![AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/688b64d4-fdcf-4303-bc14-ff52e478f8bf/public_url)
